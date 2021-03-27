@@ -1,7 +1,7 @@
 Horiseon Challenge Project
 
 Discription:
-Improved the Horiseon website by Refactoring the code to work proplery on most/all modern browsers including assessability and screen readers by updating the html semantic elements as well as cleaned up the structure, restructured/consolodated CSS selectors and properties and fixed broken clickable links so they navigate correctly. 
+Based off pre-written code, Refactoring the Horiseon website to work proplery on most/all modern browsers including assessability and screen readers by updating the html semantic elements as well as clean up the structure, restructured/consolodated CSS selectors and properties and fix broken clickable links so they navigate correctly. 
 
 - changed the title to read company name.</br>
 - added a redirect anchor to the header to bring you back to the home page</br>
